@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lala0Land
-- 👀 I’m interested in node running
-- 🌱 I’m currently learning ssh
-- 💞️ I’m looking to collaborate with Kyve, Haqq network, Zeeka, Sui, Stride, Scroll.io
-- 📫 How to reach me: Discord - Lala Land#8458
+👋 Hi, I’m @Lala0Land
+💻 I’m a smart contract developer specializing in Vyper
+🌱 Currently improving my Vyper skills and exploring blockchain security
+👀 Also interested in node running and decentralized networks
 
 <!---
 Lala0Land/Lala0Land is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
